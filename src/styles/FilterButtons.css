@@ -1,0 +1,24 @@
+.FilterButtons button {
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #121619;
+    height: 50px;
+    width: 180px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 24px;
+  }
+
+  .FilterButtons button:hover {
+    background-color: #07090a;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+  }
+
+  .FilterButtons button.active{
+    background-color: #fff;
+  }
