@@ -9,7 +9,7 @@ Felipe Garcés Acero - web developer
 
 ## Visit live web 🌎
 
-<a href="https://fgarcesa.github.io/Portfolio/" target="_BLANK">GitHub Pages<a/>
+<a href="https://fgarcesa.github.io/RacingReact/" target="_BLANK">GitHub Pages<a/>
 
 ## Contact 📫
 
