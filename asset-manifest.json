@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/racingreact/static/css/main.ff1027a3.css",
-    "main.js": "/racingreact/static/js/main.560f7be0.js",
-    "static/media/bannerpic.jpg": "/racingreact/static/media/bannerpic.45477cd4792162fb6e59.jpg",
-    "static/media/imagen8.jpg": "/racingreact/static/media/imagen8.a953fe05ad73471ec6ee.jpg",
-    "static/media/imagen5.jpg": "/racingreact/static/media/imagen5.405fb4abb37c08100134.jpg",
-    "static/media/imagen11.jpg": "/racingreact/static/media/imagen11.d82567c886d4ea497a66.jpg",
-    "static/media/imagen4.jpg": "/racingreact/static/media/imagen4.e531b2c26990dcacf829.jpg",
-    "static/media/imagen7.jpg": "/racingreact/static/media/imagen7.228a719fd61040b5f902.jpg",
-    "static/media/imagen3.jpg": "/racingreact/static/media/imagen3.8759fec6cea94082cc2a.jpg",
-    "static/media/imagen6.jpg": "/racingreact/static/media/imagen6.f9eeda938a040b739c93.jpg",
-    "static/media/imagen2.jpg": "/racingreact/static/media/imagen2.227d92fdc031d490196a.jpg",
-    "static/media/imagen1.jpg": "/racingreact/static/media/imagen1.3246411b03d07e4f64d9.jpg",
-    "static/media/logoblanco.png": "/racingreact/static/media/logoblanco.54abcf20307076cc6487.png",
-    "index.html": "/racingreact/index.html",
-    "main.ff1027a3.css.map": "/racingreact/static/css/main.ff1027a3.css.map",
-    "main.560f7be0.js.map": "/racingreact/static/js/main.560f7be0.js.map"
+    "main.css": "/RacingReact/static/css/main.ff1027a3.css",
+    "main.js": "/RacingReact/static/js/main.93e44c8d.js",
+    "static/media/bannerpic.jpg": "/RacingReact/static/media/bannerpic.45477cd4792162fb6e59.jpg",
+    "static/media/imagen8.jpg": "/RacingReact/static/media/imagen8.a953fe05ad73471ec6ee.jpg",
+    "static/media/imagen5.jpg": "/RacingReact/static/media/imagen5.405fb4abb37c08100134.jpg",
+    "static/media/imagen11.jpg": "/RacingReact/static/media/imagen11.d82567c886d4ea497a66.jpg",
+    "static/media/imagen4.jpg": "/RacingReact/static/media/imagen4.e531b2c26990dcacf829.jpg",
+    "static/media/imagen7.jpg": "/RacingReact/static/media/imagen7.228a719fd61040b5f902.jpg",
+    "static/media/imagen3.jpg": "/RacingReact/static/media/imagen3.8759fec6cea94082cc2a.jpg",
+    "static/media/imagen6.jpg": "/RacingReact/static/media/imagen6.f9eeda938a040b739c93.jpg",
+    "static/media/imagen2.jpg": "/RacingReact/static/media/imagen2.227d92fdc031d490196a.jpg",
+    "static/media/imagen1.jpg": "/RacingReact/static/media/imagen1.3246411b03d07e4f64d9.jpg",
+    "static/media/logoblanco.png": "/RacingReact/static/media/logoblanco.54abcf20307076cc6487.png",
+    "index.html": "/RacingReact/index.html",
+    "main.ff1027a3.css.map": "/RacingReact/static/css/main.ff1027a3.css.map",
+    "main.93e44c8d.js.map": "/RacingReact/static/js/main.93e44c8d.js.map"
   },
   "entrypoints": [
     "static/css/main.ff1027a3.css",
-    "static/js/main.560f7be0.js"
+    "static/js/main.93e44c8d.js"
   ]
 }
