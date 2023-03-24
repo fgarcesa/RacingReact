@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route exact path="/" element={<Home/>}/>
+          <Route exact path="/RacingReact" element={<Home/>}/>
           <Route exact path="/resultados" element={<Results/>}/>
           <Route exact path="/sobremi" element={<About/>}/>
           <Route exact path="/contacto" element={<Contact/>}/>
