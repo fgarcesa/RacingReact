@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RacingReact/static/css/main.ff1027a3.css",
-    "main.js": "/RacingReact/static/js/main.1dce6042.js",
+    "main.js": "/RacingReact/static/js/main.01c5f81c.js",
     "static/media/bannerpic.jpg": "/RacingReact/static/media/bannerpic.45477cd4792162fb6e59.jpg",
     "static/media/imagen8.jpg": "/RacingReact/static/media/imagen8.a953fe05ad73471ec6ee.jpg",
     "static/media/imagen5.jpg": "/RacingReact/static/media/imagen5.405fb4abb37c08100134.jpg",
@@ -15,10 +15,10 @@
     "static/media/logoblanco.png": "/RacingReact/static/media/logoblanco.54abcf20307076cc6487.png",
     "index.html": "/RacingReact/index.html",
     "main.ff1027a3.css.map": "/RacingReact/static/css/main.ff1027a3.css.map",
-    "main.1dce6042.js.map": "/RacingReact/static/js/main.1dce6042.js.map"
+    "main.01c5f81c.js.map": "/RacingReact/static/js/main.01c5f81c.js.map"
   },
   "entrypoints": [
     "static/css/main.ff1027a3.css",
-    "static/js/main.1dce6042.js"
+    "static/js/main.01c5f81c.js"
   ]
 }
