@@ -15,16 +15,16 @@ function Navbar() {
   return (
     <div className='navbar'>
       <div className='leftside' id={openLinks ? 'open' : 'close'}>
-      <Link to = '/'><img src={Logo} /></Link>
+      <Link to = '/RacingReact'><img src={Logo} /></Link>
         <div className='hiddenLinks'>
-          <Link to = '/'>Inicio</Link>
+          <Link to = '/RacingReact'>Inicio</Link>
           <Link to = '/resultados'>Resultados</Link>
           <Link to = '/sobremi'>Sobre mi</Link>
           <Link to = '/contacto'>Contacto</Link>
         </div>
       </div>
       <div className='rightside'>
-        <Link to = '/'><HomeIcon /></Link>
+        <Link to = '/RacingReact'><HomeIcon /></Link>
         <Link to = '/resultados'>Resultados</Link>
         <Link to = '/sobremi'>Sobre mi</Link>
         <Link to = '/contacto'>Contacto</Link>
